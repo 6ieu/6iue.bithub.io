@@ -1,1 +1,1 @@
-# 6iue.bithub.io
+# 6iue.github.io
